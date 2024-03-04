@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ergusto
 - 👀 I’m interested in building beautiful UIs
-- 🌱 I’m currently enjoying Next.js, Typescript and TRPC.
+- 🌱 I’m currently enjoying TailwindCSS, Typescript and TRPC.
 - 💞️ I’m looking to collaborate on open source projects hoping to bring a polished feel to their UIs
 - 📫 You can reach me on Twitter or Email
 
