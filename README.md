@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @ergusto
-- 👀 I’m interested in building beautiful UIs
-- 🌱 I’m currently enjoying TRPC, Typescript and TailwindCSS.
-- 💞️ I’m looking to collaborate on open source projects hoping to bring a polished feel to their UIs
+- 👀 you can find me at https://www.fergusruston.com
